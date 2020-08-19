@@ -22,7 +22,6 @@ ul{
   display: flex;
   justify-content: left;
 	align-items: center;
-	
 }
 
 /* リストの項目 */
@@ -35,9 +34,7 @@ li a{
 	text-decoration: none;
 	margin: 0 20px;
 	color:#927217;
-	font-size: 20px;
-	
-
+	font-size: 14px;
 }
 
 li a:hover {
