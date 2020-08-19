@@ -383,7 +383,7 @@ footer{
 .footer-logo-img{
 	width: 128px;
 	height: 114px;
-	border-radius: 150px;
+	margin-left: 80px;
 }
 
 .footer-content{
